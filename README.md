@@ -10,7 +10,7 @@
 # ----------------------------------------------------------------
 # 🐟 *Link* 🐟 
 
-*Link* : https://teachablemachine.withgoogle.com/models/[...]
+*Link* : https://teachablemachine.withgoogle.com/models/wEEXLHh4I/
 
 ![image](https://github.com/BorgesJahn/Modelo/assets/146860515/5b08b1c4-690e-4e05-8477-a7f0434e3b6e)
  - Creado por : **Jahn Borges**
